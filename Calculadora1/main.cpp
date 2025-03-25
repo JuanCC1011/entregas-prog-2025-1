@@ -82,7 +82,7 @@ int main (){
           //se da la indicacion de cerrar o dar por terminado el código//
             break;
        
-    return 0;
+    return 0; 
     }
     }
 
